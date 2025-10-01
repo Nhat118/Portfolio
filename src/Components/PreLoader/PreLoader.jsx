@@ -96,80 +96,80 @@ const PreLoader = () => {
       <div className="preloader-bg">
         {/* Floating bubbles */}
         <div className="tech-icon tech-9">
-          <img src="/tool/js.png" alt="JavaScript" />
+          <img src={process.env.PUBLIC_URL + '/tool/js.png'} alt="JavaScript" />
         </div>
         <div className="tech-icon tech-10">
-          <img src="/tool/python.png" alt="Python" />
+          <img src={process.env.PUBLIC_URL + '/tool/python.png'} alt="Python" />
         </div>
         <div className="tech-icon tech-11">
-          <img src="/tool/reactjs.png" alt="React" />
+          <img src={process.env.PUBLIC_URL + '/tool/reactjs.png'} alt="React" />
         </div>
         <div className="tech-icon tech-12">
-          <img src="/tool/java.png" alt="Java" />
+          <img src={process.env.PUBLIC_URL + '/tool/java.png'} alt="Java" />
         </div>
         <div className="tech-icon tech-13">
-          <img src="/tool/html.png" alt="HTML" />
+          <img src={process.env.PUBLIC_URL + '/tool/html.png'} alt="HTML" />
         </div>
         <div className="tech-icon tech-14">
-          <img src="/tool/css.png" alt="CSS" />
+          <img src={process.env.PUBLIC_URL + '/tool/css.png'} alt="CSS" />
         </div>
         <div className="tech-icon tech-15">
-          <img src="/tool/C++.png" alt="C++" />
+          <img src={process.env.PUBLIC_URL + '/tool/C++.png'} alt="C++" />
         </div>
         <div className="tech-icon tech-16">
-          <img src="/tool/SQLServer.png" alt="SQL Server" />
+          <img src={process.env.PUBLIC_URL + '/tool/SQLServer.png'} alt="SQL Server" />
         </div>
         
         {/* More bubbles with different sizes */}
         <div className="tech-icon tech-17 small-bubble">
-          <img src="/tool/js.png" alt="JavaScript" />
+          <img src={process.env.PUBLIC_URL + '/tool/js.png'} alt="JavaScript" />
         </div>
         <div className="tech-icon tech-18 small-bubble">
-          <img src="/tool/python.png" alt="Python" />
+          <img src={process.env.PUBLIC_URL + '/tool/python.png'} alt="Python" />
         </div>
         <div className="tech-icon tech-19 small-bubble">
-          <img src="/tool/reactjs.png" alt="React" />
+          <img src={process.env.PUBLIC_URL + '/tool/reactjs.png'} alt="React" />
         </div>
         <div className="tech-icon tech-20 medium-bubble">
-          <img src="/tool/java.png" alt="Java" />
+          <img src={process.env.PUBLIC_URL + '/tool/java.png'} alt="Java" />
         </div>
         <div className="tech-icon tech-21 small-bubble">
-          <img src="/tool/html.png" alt="HTML" />
+          <img src={process.env.PUBLIC_URL + '/tool/html.png'} alt="HTML" />
         </div>
         <div className="tech-icon tech-22 small-bubble">
-          <img src="/tool/css.png" alt="CSS" />
+          <img src={process.env.PUBLIC_URL + '/tool/css.png'} alt="CSS" />
         </div>
         <div className="tech-icon tech-23 medium-bubble">
-          <img src="/tool/C++.png" alt="C++" />
+          <img src={process.env.PUBLIC_URL + '/tool/C++.png'} alt="C++" />
         </div>
         <div className="tech-icon tech-24 small-bubble">
-          <img src="/tool/SQLServer.png" alt="SQL Server" />
+          <img src={process.env.PUBLIC_URL + '/tool/SQLServer.png'} alt="SQL Server" />
         </div>
         <div className="tech-icon tech-25 small-bubble">
-          <img src="/tool/js.png" alt="JavaScript" />
+          <img src={process.env.PUBLIC_URL + '/tool/js.png'} alt="JavaScript" />
         </div>
         <div className="tech-icon tech-26 small-bubble">
-          <img src="/tool/python.png" alt="Python" />
+          <img src={process.env.PUBLIC_URL + '/tool/python.png'} alt="Python" />
         </div>
         
         {/* Center bubbles */}
         <div className="tech-icon tech-27 medium-bubble">
-          <img src="/tool/reactjs.png" alt="React" />
+          <img src={process.env.PUBLIC_URL + '/tool/reactjs.png'} alt="React" />
         </div>
         <div className="tech-icon tech-28 small-bubble">
-          <img src="/tool/java.png" alt="Java" />
+          <img src={process.env.PUBLIC_URL + '/tool/java.png'} alt="Java" />
         </div>
         <div className="tech-icon tech-29 medium-bubble">
-          <img src="/tool/html.png" alt="HTML" />
+          <img src={process.env.PUBLIC_URL + '/tool/html.png'} alt="HTML" />
         </div>
         <div className="tech-icon tech-30 small-bubble">
-          <img src="/tool/css.png" alt="CSS" />
+          <img src={process.env.PUBLIC_URL + '/tool/css.png'} alt="CSS" />
         </div>
         <div className="tech-icon tech-31 medium-bubble">
-          <img src="/tool/C++.png" alt="C++" />
+          <img src={process.env.PUBLIC_URL + '/tool/C++.png'} alt="C++" />
         </div>
         <div className="tech-icon tech-32 small-bubble">
-          <img src="/tool/SQLServer.png" alt="SQL Server" />
+          <img src={process.env.PUBLIC_URL + '/tool/SQLServer.png'} alt="SQL Server" />
         </div>
         
       </div>

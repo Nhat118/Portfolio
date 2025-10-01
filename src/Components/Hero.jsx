@@ -87,7 +87,7 @@ const Hero = () => {
       </div>
       <div style={right}>
         <div style={avatar}>
-          <img src="/image/avt.jpg" alt="Avatar" style={avatarImg} />
+          <img src={process.env.PUBLIC_URL + '/image/avt.jpg'} alt="Avatar" style={avatarImg} />
         </div>
       </div>
     </div>
